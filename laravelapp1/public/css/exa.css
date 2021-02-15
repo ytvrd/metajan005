@@ -1,0 +1,1176 @@
+.left{
+    width: 650px;
+    height: 820px;
+    background-color: silver;
+    float:left;
+    border: 1px solid #000000;
+    
+}
+
+.left1{
+    width: 650px;
+    height: 40px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.left11{
+    width: 100px;
+    height: 40px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left12{
+    width: 200px;
+    height: 40px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+    text-align: center;
+}
+.left13{
+    width: 150px;
+    height: 40px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left14{
+    width: 180px;
+    height: 40px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+
+.left2{
+    width: 650px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+.left21{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+    text-align: center;
+}
+.left22{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left23{
+    width: 470px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left3{
+    width: 650px;
+    height: 30px;
+    background-color: gray; 
+    border: 1px solid #000000;
+}
+.left31{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+    text-align: center;
+}
+.left32{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left33{
+    width: 470px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left4{
+    width: 650px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+.left41{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+    text-align: center;
+}
+.left42{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left43{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+    
+}
+.left44{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+    text-align: center;
+}
+.left45{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left46{
+    width: 200px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left5{
+    width: 650px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.left51{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left52{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left53{
+    width: 20px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left54{
+    width: 80px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left55{
+    width: 120px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left56{
+    width: 80px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left57{
+    width: 80px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left58{
+    width: 80px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+    
+.left6{
+    width: 650px;
+    height: 400px;
+    background-color: green;
+    border: 1px solid #000000;
+    overflow: auto; /*スクロールさせる*/
+    
+}
+.left7{
+    width: 650px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.left71{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left72{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left73{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left74{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left75{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left76{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left77{
+    width: 80px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.left8{
+    width: 650px;
+    height: 170px;
+    background-color: green;
+    border: 1px solid #000000;
+    overflow: auto; /*スクロールさせる*/
+    
+}
+
+.right{
+    width: 750px;
+    height: 820px;
+    background-color: silver;
+    margin-left:5px;
+    float:left;
+    border: 1px solid #000000;
+}
+
+.right1{
+    width: 750px;
+    height: 50px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+.right101{
+    width: 270px;
+    height: 50px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+
+.right101 input{
+    font-size: 100%;
+}
+.right102{
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+
+.right102 input{
+    width:100%;
+    height:100%;
+    background-color: lightblue;
+    font-size: 150%;
+}
+
+
+.right103{
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+    
+}
+
+.right103 input{
+    width:100%;
+    height:100%;
+    background-color: lightblue;
+    font-size: 150%;
+}
+.right104{
+    width: 50px;
+    height: 50px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+
+
+.right2{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+.right201{
+    width: 250px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right202{
+    width: 450px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right3{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right301{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right302{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right303{
+    width: 350px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right304{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right305{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right4{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right401{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right402{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right403{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right404{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right405{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right406{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right407{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right408{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right5{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+.right501{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right502{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right503{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right504{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right505{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right506{
+    width: 20px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+    text-align:center;
+}
+.right507{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right508{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right509{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+}
+.right510{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right511{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right512{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right513{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right6{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right601{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right602{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right603{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right604{
+    width: 200px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right605{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right606{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right607{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right7{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+.right701{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right702{
+    width: 600px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right8{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right801{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right802{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right803{
+    width: 300px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right804{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right805{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right806{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+
+.right9{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right901{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right902{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right903{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right904{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right905{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right906{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right907{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right908{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right909{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right910{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right911{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+
+.right10{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right1001{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1002{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1003{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1004{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1005{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1006{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1007{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1008{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1009{
+    width: 280px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right11{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right1101{
+    width: 250px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1102{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1103{
+    width: 250px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1104{
+    width: 50px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1105{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right12{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right1201{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1202{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1203{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1204{
+    width: 200px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1205{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right13{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right1301{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1302{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1303{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1304{
+    width: 200px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1305{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right14{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right1401{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1402{
+    width: 150px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1403{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1404{
+    width: 200px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1405{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right15{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right1501{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1502{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1503{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1504{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1505{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1506{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right16{
+    width: 750px;
+    height: 120px;
+    background-color: green;
+    border: 1px solid #000000;
+    overflow: auto; /*スクロールさせる*/
+}
+.right17{
+    width: 750px;
+    height: 30px;
+    background-color: gray;
+    border: 1px solid #000000;
+}
+
+.right1701{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1702{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1703{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1704{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1705{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right1706{
+    width: 100px;
+    height: 30px;
+    background-color: gray;
+    float:left;
+    border: 1px solid #000000;
+}
+.right18{
+    width: 750px;
+    height: 120px;
+    background-color: green;
+    border: 1px solid #000000;
+    overflow: auto; /*スクロールさせる*/
+}
+
+
+button {
+    display: inline-block;
+    /*padding: 0.5em 1em;*/
+    text-decoration: none;
+    background: #668ad8;/*ボタン色*/
+    color: #FFF;
+    /*border-bottom: solid 4px #627295;*/
+    border-radius: 3px;
+}
+input {
+    font-size: 75%;
+}
+
+div {
+    font-size: 95%;
+}
+
+table {
+    font-size:75%;
+}
+
+.blockdel{
+    background-color: lightblue;
+}
+
+.keydel{
+    background-color: lightblue;
+}
+
+.sagyoudel{
+    background-color: lightblue;
+}
+    
+
+
