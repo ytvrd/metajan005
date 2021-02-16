@@ -23,27 +23,30 @@ class HelloController extends Controller
         'user'=>$user];
         return view('hello.index',$param);*/
 
-       // return view('hello.index');
+        return view('hello.index');
 
+        /*
         if (Auth::check()) {
             return view('hello.index');
         } else {
             // ログインしていなかったら、Login画面を表示
             return view('auth/login');
         }
+        */
     }
 
 
 
     public function ban(Request $request){
-      //  return view('hello.ban');
+        return view('hello.ban');
 
+        /*
         if (Auth::check()) {
             return view('hello.ban');
         } else {
             // ログインしていなかったら、Login画面を表示
             return view('auth/login');
-        }
+        }*/
         
         
     }
@@ -51,13 +54,16 @@ class HelloController extends Controller
 
     public function cmmeta(Request $request){
         //  return view('hello.ban');
+
+        return view('hello.cmmeta');
   
+        /*
           if (Auth::check()) {
               return view('hello.cmmeta');
           } else {
               // ログインしていなかったら、Login画面を表示
               return view('auth/login');
-          }
+          }*/
           
           
       }
@@ -9325,12 +9331,15 @@ echo $dom->saveXML();
 
     public function exa(Request $request){
         // ログインしていたら、test/menuを表示
+
+        return view('hello.exa');
+        /*
         if (Auth::check()) {
             return view('hello.exa');
         } else {
             // ログインしていなかったら、Login画面を表示
             return view('auth/login');
-        }
+        }*/
        // return view('hello.exa');
     }
 }

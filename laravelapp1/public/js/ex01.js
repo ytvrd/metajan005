@@ -367,7 +367,7 @@ $('#stopmarkf').on('change', function() {
   });
 
   $('#manual').on('click', function() {
-       window.open("../MetaJan操作マニュアル.pdf");
+      window.open("https://ytvrd.s3-ap-northeast-1.amazonaws.com/metajan/MetaJan%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf", '_blank');
   });
 
   
@@ -444,7 +444,7 @@ $('#fileidh').on('click', function() {
 });
 
 $('#example').on('click', function() {
-    window.open("../Block1.pdf");
+    window.open("https://ytvrd.s3-ap-northeast-1.amazonaws.com/metajan/Block1.pdf", '_blank');
 });
 
 
